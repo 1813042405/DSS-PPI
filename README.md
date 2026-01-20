@@ -1,8 +1,9 @@
-# DSS-PPI: Deep Semantic Similarity for Protein-Protein Interaction Prediction
+# DSS-PPI: A Self-Supervised Graph Learning Framework for Protein-Protein Interaction Prediction via Multimodal Sequence Semantics
 
 This repository contains the code for our paper. DSS-PPI is a deep learning-based framework for protein-protein interaction (PPI) prediction. By integrating ProTrek sequence features, ProtT5 sequence features, and GAT graph features, the framework significantly enhances the accuracy of PPI predictions.
 
 ## Framework Overview
+<img width="1589" height="647" alt="模型图1" src="https://github.com/user-attachments/assets/30b36841-a6b6-46bd-9e9e-36a5ae29846a" />
 
 
 
