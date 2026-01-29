@@ -16,6 +16,16 @@ This repository contains the code for our paper. DSS-PPI is a deep learning-base
 * **`utils.py`**: Provides utility functions, including data preprocessing and pre-training functionalities.
 * **`features/`**: Stores feature records for the human dataset.
 
+
+## Dataset Description
+* **`./data/human`**: The Human dataset.
+* **`./data/S.cerevisiae`**: The S.cerevisiae dataset.
+* **`./data/Multispecies`**: The Multispecies dataset.
+* **`./data/M.musculus`**: The M.musculus dataset.
+* **`./data/D.melanogaster`**: The D.melanogaster dataset.
+* **`./data/Bernett`**: The Bernett dataset.
+
+
 ## Data Preparation
 
 The system requires the following data files:
